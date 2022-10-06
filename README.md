@@ -1,6 +1,6 @@
 ### sawadyecma 👋
 
-- 🔭 I’m currently working on the company which provides SaaS for the dentists.
+- 🔭 I’m currently working as freelance.
 - 🔭 I’m currently frontend enginner.
 - 🌱 I’m currently learning Rust.
 
