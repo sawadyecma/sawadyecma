@@ -1,8 +1,6 @@
 ### sawadyecma 👋
 
-- 🔭 I’m currently working as freelance.
-- 🔭 I’m currently frontend enginner.
-- 🌱 I’m currently learning Rust.
+I’m a frontend enginner working as freelance.
 
 <!--
 **sawadyecma/sawadyecma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
