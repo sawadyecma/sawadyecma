@@ -1,6 +1,6 @@
 ### sawadyecma 👋
 
-I’m a frontend enginner working as freelance.
+I’m a frontend engineer working as freelance.
 
 <!--
 **sawadyecma/sawadyecma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
